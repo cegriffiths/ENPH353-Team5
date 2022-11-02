@@ -11,3 +11,8 @@ cd ~/ros_ws/src/2022_competition/enph353/enph353_utils/scripts
 ```
 tbd
 ```
+
+## Location of License Plate png
+```
+~/ros_ws/src/2022_competition/enph353/enph353_gazebo/scripts/blank_plate.png
+```
