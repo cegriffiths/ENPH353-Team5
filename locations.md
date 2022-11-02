@@ -16,3 +16,6 @@ tbd
 ```
 ~/ros_ws/src/2022_competition/enph353/enph353_gazebo/scripts/blank_plate.png
 ```
+
+## Files to edit
+potentially things in the adeept_awr and adeept_awr_gazebo directories
