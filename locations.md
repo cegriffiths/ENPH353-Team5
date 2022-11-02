@@ -1,9 +1,9 @@
 ## Starting the sim
 ```
-cd ~/ros_ws
+cd ~/ENPH353-Team5/ros_ws
 catkin_make
-source ~/ros_ws/devel/setup.bash
-cd ~/ros_ws/src/2022_competition/enph353/enph353_utils/scripts
+source ~/ENPH353-Team5/ros_ws/devel/setup.bash
+cd ~/ENPH353-Team5/ros_ws/src/2022_competition/enph353/enph353_utils/scripts
 ./run_sim.sh -vpg
 ```
 
@@ -14,7 +14,7 @@ tbd
 
 ## Location of License Plate png
 ```
-~/ros_ws/src/2022_competition/enph353/enph353_gazebo/scripts/blank_plate.png
+~/ENPH353-Team5/ros_ws/src/2022_competition/enph353/enph353_gazebo/scripts/blank_plate.png
 ```
 
 ## Files to edit
